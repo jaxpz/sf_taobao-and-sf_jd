@@ -1,2 +1,8 @@
 # sf_taobao-and-sf_jd
 利于python爬虫爬取淘宝司法拍卖和京东司法拍卖土地的每日信息
+
+利于python爬取两个网站的土地每日信息并生成邮件发送和存入数据库
+
+sf_jd基于selenium和chrome自动化爬取
+
+两个文件在pythopython3.6版本和centos7上运行正常
