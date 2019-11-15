@@ -5,4 +5,4 @@
 
 sf_jd基于selenium和chrome自动化爬取
 
-两个文件在pythopython3.6版本和centos7上运行正常
+在pythopython3.6版本和centos7上运行正常
